@@ -2,7 +2,7 @@
 
 body {
     background-color: #000000;
-	margin: 0px 0px;
+    margin: 0px 0px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -14,36 +14,36 @@ body {
 
 
 #container {
-	width: 1080px;
-	margin: auto;
+    width: 1080px;
+    margin: auto;
 }
 
 header {
-	padding: 5px;
+    padding: 5px;
     margin: 20px;
-	margin-bottom: 0px;
-	overflow: hidden;
+    margin-bottom: 0px;
+    overflow: hidden;
 }
 
 
 
 #headerpost {
     margin-top: 0px; 
-	margin-bottom: 10px;
-	overflow: hidden;
+    margin-bottom: 10px;
+    overflow: hidden;
 }
 
 
 
 #content {
-	margin-bottom: 30px;
-	overflow: hidden;
+    margin-bottom: 30px;
+    overflow: hidden;
 }
 
 
 
 footer {
-	margin-bottom: 10px
+    margin-bottom: 10px
 }
 
 
@@ -52,11 +52,11 @@ footer {
 /*### LOGO部分 ###*/
 
 #site {
-	float: left;
+    float: left;
 }
 
 #site h1 {
-	margin: 0;
+    margin: 0;
 }
 
 
@@ -67,16 +67,16 @@ footer {
 
 
 #site img {
-	vertical-align: bottom;
-	width: 150px; 
+    vertical-align: bottom;
+    width: 150px; 
 }
 
 
 
 nav {
-	float: right;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
-	padding-top: 85px;
+    float: right;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    padding-top: 85px;
 }
 
 
@@ -120,7 +120,7 @@ nav li a:hover {
 
 
 #headerposter img {
-	vertical-align: middle;: 
+    vertical-align: middle;: 
 }
 
 
@@ -129,11 +129,11 @@ nav li a:hover {
 
 #headerposter h2 {
     margin-left: 20px; 
-	font-size: 15px;
+    font-size: 15px;
     font-family: 'Yanone Kaffeesatz', sans-serif;
-	padding-top: 60px;
-	color: #AAAAAA;
-	margin: 10px 0;
+    padding-top: 60px;
+    color: #AAAAAA;
+    margin: 10px 0;
 }
 
 
@@ -329,7 +329,7 @@ small {
 
 
 small {
-	margin-left: 3px;
+    margin-left: 3px;
     clear: both;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 12px;
